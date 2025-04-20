@@ -1,16 +1,57 @@
-## Hi there 👋
+<h1 align="center">Hey there! 👋 I'm Eric Afari Dwamena</h1>
+<p align="center">🚀 Full-Stack Developer | 🔒 Cybersecurity Enthusiast | 🎓 CS @ Ashesi University</p>
 
-<!--
-**Ericjr-a/ericjr-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🧠 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Computer Science student at **Ashesi University**, Ghana  
+- Interested in **Web Development**, **AI**, **Software Development** and **Cloud Services**
+- Currently building real-time threat detection systems using **FastAPI**, **ML**, and **Threat Intelligence APIs**
+- I love team-based projects and bringing ideas to life through clean UI/UX and robust backends
+
+---
+
+## 📫 Contact Me
+
+<p align="left">
+  <a href="mailto:ericjr.a17@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="www.linkedin.com/in/eric-afari-dwamena-35154722b"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="nm"><img src="https://img.shields.io/badge/Portfolio-12100E?style=flat&logo=vercel&logoColor=white"/></a>
+</p>
+
+---
+
+## 💻 Tools and Technologies I Use
+
+<p>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
+</p>
+---
+
+## 📊 GitHub Contributions
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ericjr-a&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
+
+<p align="center">
+  🔥 <strong>Total Contributions:</strong> <a href="https://github.com/ericjr-a">Check my GitHub activity</a>
+</p>
+
+---
+
+
+
+
+<p align="center">Let’s build, break, and secure the web — one repo at a time!</p>
