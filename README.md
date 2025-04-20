@@ -48,15 +48,12 @@ https://github.com/Ashesi-Org/CS462-Carbon-Footprint-Estimator
 ## 📊 GitHub Contributions
 
 <p align="center">
-  🔥 <strong>Total Contributions:</strong> <span style="font-size: 1.2rem;">492+</span> (since Jan 2023)
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ericjr-a&theme=radical&hide_border=true" alt="GitHub Streak Stats" />
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=ericjr-a&theme=windows-dark&border_radius=5.3" alt="GitHub Streak" />
+  </a>
 </p>
 
 ---
-
 
 
 <p align="center">Let’s build, break, and secure the web — one repo at a time!</p>
