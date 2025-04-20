@@ -1,5 +1,5 @@
 <h1 align="center">Hey there! 👋 I'm Eric Afari Dwamena</h1>
-<p align="center">🚀 Full-Stack Developer | 🔒 Cybersecurity Enthusiast | 🎓 CS @ Ashesi University</p>
+<p align="center">📚 Full-Stack Developer | 🔒 Cybersecurity Enthusiast | 🎓 CS @ Ashesi University</p>
 
 ---
 
@@ -39,14 +39,16 @@
 </p>
 ---
 
+## Link to hidden github repo 
+<p>
+https://github.com/Ashesi-Org/CS462-Carbon-Footprint-Estimator
+</p>
+---
+
 ## 📊 GitHub Contributions
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ericjr-a&label=Profile%20Views&color=0e75b6&style=flat" />
-</p>
-
-<p align="center">
-  🔥 <strong>Total Contributions:</strong> <a href="https://github.com/ericjr-a">Check my GitHub activity</a>
+  <img src="https://github-readme-stats.vercel.app/api?username=ericjr-a&show_icons=true&count_private=true&hide=prs,issues,stars&custom_title=My%20GitHub%20Stats&theme=radical" />
 </p>
 
 ---
