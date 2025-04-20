@@ -3,7 +3,7 @@
 
 ---
 
-## 🧠 About Me
+## 🧍🏽‍♂️ About Me
 
 - Computer Science student at **Ashesi University**, Ghana  
 - Interested in **Web Development**, **AI**, **Software Development** and **Cloud Services**
