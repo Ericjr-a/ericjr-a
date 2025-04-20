@@ -48,8 +48,9 @@ https://github.com/Ashesi-Org/CS462-Carbon-Footprint-Estimator
 ## 📊 GitHub Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ericjr-a&show_icons=true&count_private=true&hide=prs,issues,contribs,stars&custom_title=Total%20GitHub%20Contributions&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ericjr-a&show_icons=true&count_private=true&include_all_commits=true&custom_title=Total%20GitHub%20Contributions&theme=radical" />
 </p>
+
 
 ---
 
