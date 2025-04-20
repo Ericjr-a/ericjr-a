@@ -9,7 +9,7 @@
 - Interested in **Web Development**, **AI**, **Software Development** and **Cloud Services**
 - Currently building real-time threat detection systems using **FastAPI**, **ML**, and **Threat Intelligence APIs**
 - I love team-based projects and bringing ideas to life through clean UI/UX and robust backends
-
+  
 ---
 
 ## 📫 Contact Me
@@ -37,12 +37,14 @@
   <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
 </p>
+
 ---
 
 ## Link to hidden github repo 
 <p>
 https://github.com/Ashesi-Org/CS462-Carbon-Footprint-Estimator
 </p>
+
 ---
 
 ## 📊 GitHub Contributions
