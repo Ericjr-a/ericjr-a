@@ -40,7 +40,7 @@
 
 ---
 
-## Link to hidden github repo 
+## Link to unseen github repo 
 <p>
 https://github.com/Ashesi-Org/CS462-Carbon-Footprint-Estimator
 </p>
